@@ -1,4 +1,2 @@
-
-
-https://github.com/Nur-Adnan/Modal-Using-Js/assets/56475820/3128b48d-8548-48bc-818b-a326f3469ce2
+https://github.com/Nur-Adnan/Modal-Using-Js/assets/56475820/8c798062-188b-4524-96bd-b2a16aa3cdae
 
